@@ -1,3 +1,3 @@
-module sudoku-solver
+module sudoku_solver
 
 go 1.18
