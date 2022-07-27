@@ -6,5 +6,5 @@ import (
 )
 
 func main(){
-  fmt.Println(puzzle.GenGridString())
+  fmt.Println(string(puzzle.TestGrid))
 }
